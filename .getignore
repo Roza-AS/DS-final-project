@@ -1,0 +1,83 @@
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+############################
+# Virtual Environments
+############################
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+############################
+# Jupyter / Notebooks
+############################
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+############################
+# Data files (RAW / LARGE)
+############################
+data/raw/
+data/external/
+data/tmp/
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
+# Keep small example data if needed
+!data/sample_data.csv
+
+############################
+# Model artifacts
+############################
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+############################
+# Logs & outputs
+############################
+logs/
+*.log
+outputs/
+results/
+reports/
+
+############################
+# Streamlit
+############################
+.streamlit/secrets.toml
+
+############################
+# OS / IDE junk
+############################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+############################
+# Testing / Coverage
+############################
+.coverage
+htmlcov/
+.pytest_cache/
+
+############################
+# Build / packaging
+############################
+build/
+dist/
+*.egg-info/
