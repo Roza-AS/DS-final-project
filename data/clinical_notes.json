@@ -1,0 +1,162 @@
+[
+  {
+    "patient_id": "P0001",
+    "note": "Patient P0001 seen in endocrinology clinic for diabetes follow-up. Age: 58 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.6%. BMI around 30.1 kg/m2. Renal function: eGFR 47 mL/min/1.73m2. Current meds: insulin, metformin, statin. Comorbidity: dyslipidemia. Comorbidity: CKD noted (stage unspecified). History: MI/stroke about 38 months ago."
+  },
+  {
+    "patient_id": "P0002",
+    "note": "Patient P0002 seen in endocrinology clinic for diabetes follow-up. Age: 54 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.8%. BMI around 39.6 kg/m2. Renal function: eGFR 33 mL/min/1.73m2. Current meds: metformin."
+  },
+  {
+    "patient_id": "P0003",
+    "note": "Patient P0003 seen in endocrinology clinic for diabetes follow-up. Age: 71 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.4%. Renal function: eGFR 99 mL/min/1.73m2. Current meds: ace inhibitor, glp-1 receptor agonist, insulin, metformin, statin. Comorbidity: hypertension (controlled). Comorbidity: dyslipidemia. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0004",
+    "note": "Patient P0004 seen in endocrinology clinic for diabetes follow-up. Age: 51 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 11.5%. Renal function: eGFR 76 mL/min/1.73m2. Current meds: dpp-4 inhibitor, glp-1 receptor agonist, metformin. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0005",
+    "note": "Patient P0005 seen in endocrinology clinic for diabetes follow-up. Age: 50 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 11.0%. BMI around 41.0 kg/m2. Renal function: eGFR 86 mL/min/1.73m2. Current meds: insulin, metformin, sglt2 inhibitor. Pregnancy: denies pregnancy. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0006",
+    "note": "Patient P0006 seen in endocrinology clinic for diabetes follow-up. Age: 50 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.4%. BMI around 24.8 kg/m2. Renal function: eGFR 84 mL/min/1.73m2. Current meds: metformin. Comorbidity: dyslipidemia. Comorbidity: CKD noted (stage unspecified). History: MI/stroke about 58 months ago."
+  },
+  {
+    "patient_id": "P0007",
+    "note": "Patient P0007 seen in endocrinology clinic for diabetes follow-up. Age: 50 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.2%. BMI around 31.2 kg/m2. Renal function: eGFR 109 mL/min/1.73m2. Current meds: ace inhibitor, glp-1 receptor agonist, metformin, sglt2 inhibitor. Comorbidity: hypertension (controlled). Comorbidity: dyslipidemia. History: MI/stroke about 10 months ago."
+  },
+  {
+    "patient_id": "P0008",
+    "note": "Patient P0008 seen in endocrinology clinic for diabetes follow-up. Age: 55 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 6.7%. BMI around 29.5 kg/m2. Renal function: eGFR 59 mL/min/1.73m2. Current meds: dpp-4 inhibitor."
+  },
+  {
+    "patient_id": "P0009",
+    "note": "Patient P0009 seen in endocrinology clinic for diabetes follow-up. Age: 33 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.1%. BMI around 24.3 kg/m2. Renal function: eGFR 64 mL/min/1.73m2. Current meds: ace inhibitor, dpp-4 inhibitor, insulin, metformin. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0010",
+    "note": "Patient P0010 seen in endocrinology clinic for diabetes follow-up. Age: 65 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 6.3%. BMI around 40.4 kg/m2. Renal function: eGFR 64 mL/min/1.73m2. Current meds: insulin. Pregnancy status unknown."
+  },
+  {
+    "patient_id": "P0011",
+    "note": "Patient P0011 seen in endocrinology clinic for diabetes follow-up. Age: 39 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 6.5%. BMI around 37.0 kg/m2. Renal function: eGFR 65 mL/min/1.73m2. Current meds: metformin."
+  },
+  {
+    "patient_id": "P0012",
+    "note": "Patient P0012 seen in endocrinology clinic for diabetes follow-up. Age: 59 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.9%. BMI around 31.2 kg/m2. Renal function: eGFR 78 mL/min/1.73m2. Current meds: arb, metformin. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0013",
+    "note": "Patient P0013 seen in endocrinology clinic for diabetes follow-up. Age: 37 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.6%. BMI around 44.4 kg/m2. Renal function: eGFR 99 mL/min/1.73m2. Medication list not available in this note. Pregnancy: denies pregnancy. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0014",
+    "note": "Patient P0014 seen in endocrinology clinic for diabetes follow-up. Age: 44 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.4%. BMI around 29.9 kg/m2. Renal function: eGFR 64 mL/min/1.73m2. Current meds: insulin, metformin. Pregnancy: denies pregnancy. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0015",
+    "note": "Patient P0015 seen in endocrinology clinic for diabetes follow-up. Age: 46 years. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.5%. BMI around 43.7 kg/m2. Renal function: eGFR 102 mL/min/1.73m2. Current meds: insulin, metformin, sglt2 inhibitor. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0016",
+    "note": "Patient P0016 seen in endocrinology clinic for diabetes follow-up. Age: 37 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.3%. BMI around 26.9 kg/m2. Renal function: eGFR 106 mL/min/1.73m2. Current meds: ace inhibitor, insulin, metformin. Pregnancy: denies pregnancy. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0017",
+    "note": "Patient P0017 seen in endocrinology clinic for diabetes follow-up. Age: 66 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. HbA1c not available in chart today. BMI around 32.3 kg/m2. Renal function: eGFR 100 mL/min/1.73m2. Current meds: metformin. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0018",
+    "note": "Patient P0018 seen in endocrinology clinic for diabetes follow-up. Age: 23 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 6.8%. BMI around 40.0 kg/m2. Renal function: eGFR 74 mL/min/1.73m2. Current meds: metformin. Pregnancy status: not discussed today. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0019",
+    "note": "Patient P0019 seen in endocrinology clinic for diabetes follow-up. Age: 78 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.7%. BMI around 32.3 kg/m2. Renal function: eGFR 62 mL/min/1.73m2. Current meds: ace inhibitor, metformin. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0020",
+    "note": "Patient P0020 seen in endocrinology clinic for diabetes follow-up. Age: 63 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.3%. BMI around 33.8 kg/m2. Renal function: eGFR 97 mL/min/1.73m2. Current meds: glp-1 receptor agonist, insulin, metformin, statin. Comorbidity: dyslipidemia. Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0021",
+    "note": "Patient P0021 seen in endocrinology clinic for diabetes follow-up. Age: 43 years. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 6.7%. BMI around 28.3 kg/m2. Renal function: eGFR 62 mL/min/1.73m2. Current meds: metformin."
+  },
+  {
+    "patient_id": "P0022",
+    "note": "Patient P0022 seen in endocrinology clinic for diabetes follow-up. Age: 65 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.3%. BMI around 33.2 kg/m2. Renal function: eGFR 63 mL/min/1.73m2. Current meds: ace inhibitor, metformin. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0023",
+    "note": "Patient P0023 seen in endocrinology clinic for diabetes follow-up. Age: 42 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.7%. BMI around 22.4 kg/m2. Renal function: eGFR 69 mL/min/1.73m2. Medication list not available in this note. Pregnancy: denies pregnancy. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0024",
+    "note": "Patient P0024 seen in endocrinology clinic for diabetes follow-up. Age: 54 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.8%. BMI around 41.2 kg/m2. Renal labs pending (eGFR unknown). Medication list not available in this note. Comorbidity: dyslipidemia."
+  },
+  {
+    "patient_id": "P0025",
+    "note": "Patient P0025 seen in endocrinology clinic for diabetes follow-up. Age: 57 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.1%. Renal function: eGFR 96 mL/min/1.73m2. Current meds: glp-1 receptor agonist, metformin."
+  },
+  {
+    "patient_id": "P0026",
+    "note": "Patient P0026 seen in endocrinology clinic for diabetes follow-up. Age: 56 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.0%. BMI around 30.1 kg/m2. Renal function: eGFR 102 mL/min/1.73m2. Current meds: insulin, metformin."
+  },
+  {
+    "patient_id": "P0027",
+    "note": "Patient P0027 seen in endocrinology clinic for diabetes follow-up. Age: 63 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.8%. BMI around 40.7 kg/m2. Renal function: eGFR 95 mL/min/1.73m2. Current meds: metformin."
+  },
+  {
+    "patient_id": "P0028",
+    "note": "Patient P0028 seen in endocrinology clinic for diabetes follow-up. Age: 52 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 9.6%. BMI around 31.9 kg/m2. Renal function: eGFR 44 mL/min/1.73m2. Current meds: glp-1 receptor agonist, insulin, metformin, statin. Comorbidity: dyslipidemia."
+  },
+  {
+    "patient_id": "P0029",
+    "note": "Patient P0029 seen in endocrinology clinic for diabetes follow-up. Age: 35 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 11.2%. BMI around 31.3 kg/m2. Renal function: eGFR 75 mL/min/1.73m2. Current meds: dpp-4 inhibitor, metformin. Pregnancy status: not discussed today. History: MI/stroke about 20 months ago."
+  },
+  {
+    "patient_id": "P0030",
+    "note": "Patient P0030 seen in endocrinology clinic for diabetes follow-up. Age: 58 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. HbA1c not available in chart today. BMI around 31.8 kg/m2. Renal function: eGFR 113 mL/min/1.73m2. Current meds: arb, dpp-4 inhibitor, glp-1 receptor agonist, metformin. Comorbidity: hypertension (controlled). Comorbidity: CKD noted (stage unspecified)."
+  },
+  {
+    "patient_id": "P0031",
+    "note": "Patient P0031 seen in endocrinology clinic for diabetes follow-up. Age: 51 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 11.2%. BMI around 24.3 kg/m2. Renal function: eGFR 91 mL/min/1.73m2. Current meds: ace inhibitor, metformin. Pregnancy status unknown. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0032",
+    "note": "Patient P0032 seen in endocrinology clinic for diabetes follow-up. Age: 41 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.1%. BMI around 33.0 kg/m2. Renal function: eGFR 88 mL/min/1.73m2. Current meds: insulin, metformin."
+  },
+  {
+    "patient_id": "P0033",
+    "note": "Patient P0033 seen in endocrinology clinic for diabetes follow-up. Age: 34 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.0%. Renal function: eGFR 55 mL/min/1.73m2. Current meds: dpp-4 inhibitor."
+  },
+  {
+    "patient_id": "P0034",
+    "note": "Patient P0034 seen in endocrinology clinic for diabetes follow-up. Age: 55 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 10.5%. BMI around 28.1 kg/m2. Renal labs pending (eGFR unknown). Current meds: metformin. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0035",
+    "note": "Patient P0035 seen in endocrinology clinic for diabetes follow-up. Age: 65 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.1%. BMI around 40.6 kg/m2. Renal function: eGFR 71 mL/min/1.73m2. Current meds: metformin."
+  },
+  {
+    "patient_id": "P0036",
+    "note": "Patient P0036 seen in endocrinology clinic for diabetes follow-up. Age: 61 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. HbA1c not available in chart today. BMI around 27.8 kg/m2. Renal labs pending (eGFR unknown). Current meds: metformin. Pregnancy status unknown. Comorbidity: hypertension (controlled)."
+  },
+  {
+    "patient_id": "P0037",
+    "note": "Patient P0037 seen in endocrinology clinic for diabetes follow-up. Age: 48 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.2%. BMI around 42.6 kg/m2. Renal function: eGFR 84 mL/min/1.73m2. Current meds: insulin, metformin. Pregnancy: denies pregnancy."
+  },
+  {
+    "patient_id": "P0038",
+    "note": "Patient P0038 seen in endocrinology clinic for diabetes follow-up. Age: 37 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 8.8%. BMI around 27.7 kg/m2. Renal function: eGFR 65 mL/min/1.73m2. Current meds: arb, metformin. Pregnancy: denies pregnancy. Comorbidity: hypertension (controlled). History: MI/stroke about 18 months ago."
+  },
+  {
+    "patient_id": "P0039",
+    "note": "Patient P0039 seen in endocrinology clinic for diabetes follow-up. Age: 57 years. Sex: male. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.2%. BMI around 28.7 kg/m2. Renal function: eGFR 86 mL/min/1.73m2. Medication list not available in this note. Comorbidity: dyslipidemia."
+  },
+  {
+    "patient_id": "P0040",
+    "note": "Patient P0040 seen in endocrinology clinic for diabetes follow-up. Age: 73 years. Sex: female. Diagnosis: Type 2 diabetes mellitus, long-standing. Most recent HbA1c: 7.7%. BMI around 41.2 kg/m2. Renal function: eGFR 59 mL/min/1.73m2. Medication list not available in this note. Comorbidity: dyslipidemia."
+  }
+]

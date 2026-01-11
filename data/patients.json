@@ -1,0 +1,1053 @@
+[
+  {
+    "patient_id": "P0001",
+    "age_years": 58,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia",
+      "ckd",
+      "asthma"
+    ],
+    "hba1c_percent": 9.6,
+    "bmi": 30.1,
+    "egfr": 47,
+    "uacr_mg_g": 9,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin",
+      "statin"
+    ],
+    "metformin_stable_months": 22,
+    "recent_mi_or_stroke_months": 38,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0002",
+    "age_years": 54,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 8.8,
+    "bmi": 39.6,
+    "egfr": 33,
+    "uacr_mg_g": 18,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 5,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0003",
+    "age_years": 71,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "dyslipidemia",
+      "ckd"
+    ],
+    "hba1c_percent": 7.4,
+    "bmi": null,
+    "egfr": 99,
+    "uacr_mg_g": 202,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "glp-1 receptor agonist",
+      "insulin",
+      "metformin",
+      "statin"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0004",
+    "age_years": 51,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "ckd"
+    ],
+    "hba1c_percent": 11.5,
+    "bmi": null,
+    "egfr": 76,
+    "uacr_mg_g": 9,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "dpp-4 inhibitor",
+      "glp-1 receptor agonist",
+      "metformin"
+    ],
+    "metformin_stable_months": 25,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0005",
+    "age_years": 50,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "ckd",
+      "asthma"
+    ],
+    "hba1c_percent": 11.0,
+    "bmi": 41.0,
+    "egfr": 86,
+    "uacr_mg_g": 303,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin",
+      "sglt2 inhibitor"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0006",
+    "age_years": 50,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia",
+      "ckd",
+      "asthma"
+    ],
+    "hba1c_percent": 10.4,
+    "bmi": 24.8,
+    "egfr": 84,
+    "uacr_mg_g": null,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 15,
+    "recent_mi_or_stroke_months": 58,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0007",
+    "age_years": 50,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "dyslipidemia",
+      "obesity"
+    ],
+    "hba1c_percent": 7.2,
+    "bmi": 31.2,
+    "egfr": 109,
+    "uacr_mg_g": 140,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "glp-1 receptor agonist",
+      "metformin",
+      "sglt2 inhibitor"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": 10,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0008",
+    "age_years": 55,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity"
+    ],
+    "hba1c_percent": 6.7,
+    "bmi": 29.5,
+    "egfr": 59,
+    "uacr_mg_g": 1079,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "dpp-4 inhibitor"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0009",
+    "age_years": 33,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "asthma"
+    ],
+    "hba1c_percent": 10.1,
+    "bmi": 24.3,
+    "egfr": 64,
+    "uacr_mg_g": 10,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "dpp-4 inhibitor",
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": 10,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0010",
+    "age_years": 65,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity",
+      "asthma"
+    ],
+    "hba1c_percent": 6.3,
+    "bmi": 40.4,
+    "egfr": 64,
+    "uacr_mg_g": 1064,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "insulin"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": true
+  },
+  {
+    "patient_id": "P0011",
+    "age_years": 39,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "asthma"
+    ],
+    "hba1c_percent": 6.5,
+    "bmi": 37.0,
+    "egfr": 65,
+    "uacr_mg_g": 463,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 18,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0012",
+    "age_years": 59,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "ckd"
+    ],
+    "hba1c_percent": 8.9,
+    "bmi": 31.2,
+    "egfr": 78,
+    "uacr_mg_g": 5,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "arb",
+      "metformin"
+    ],
+    "metformin_stable_months": 6,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0013",
+    "age_years": 37,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity",
+      "ckd"
+    ],
+    "hba1c_percent": 10.6,
+    "bmi": 44.4,
+    "egfr": 99,
+    "uacr_mg_g": 442,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0014",
+    "age_years": 44,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "ckd"
+    ],
+    "hba1c_percent": 9.4,
+    "bmi": 29.9,
+    "egfr": 64,
+    "uacr_mg_g": 856,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": 24,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": true
+  },
+  {
+    "patient_id": "P0015",
+    "age_years": 46,
+    "sex": null,
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "ckd"
+    ],
+    "hba1c_percent": 9.5,
+    "bmi": 43.7,
+    "egfr": 102,
+    "uacr_mg_g": 1418,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin",
+      "sglt2 inhibitor"
+    ],
+    "metformin_stable_months": 12,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0016",
+    "age_years": 37,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "ckd"
+    ],
+    "hba1c_percent": 8.3,
+    "bmi": 26.9,
+    "egfr": 106,
+    "uacr_mg_g": 72,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": 5,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0017",
+    "age_years": 66,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "ckd"
+    ],
+    "hba1c_percent": null,
+    "bmi": 32.3,
+    "egfr": 100,
+    "uacr_mg_g": 70,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 23,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0018",
+    "age_years": 23,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity",
+      "ckd"
+    ],
+    "hba1c_percent": 6.8,
+    "bmi": 40.0,
+    "egfr": 74,
+    "uacr_mg_g": 393,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 15,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0019",
+    "age_years": 78,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "asthma"
+    ],
+    "hba1c_percent": 7.7,
+    "bmi": 32.3,
+    "egfr": 62,
+    "uacr_mg_g": null,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "metformin"
+    ],
+    "metformin_stable_months": 9,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0020",
+    "age_years": 63,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia",
+      "ckd"
+    ],
+    "hba1c_percent": 8.3,
+    "bmi": 33.8,
+    "egfr": 97,
+    "uacr_mg_g": 1496,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "glp-1 receptor agonist",
+      "insulin",
+      "metformin",
+      "statin"
+    ],
+    "metformin_stable_months": 19,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0021",
+    "age_years": 43,
+    "sex": null,
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity",
+      "asthma"
+    ],
+    "hba1c_percent": 6.7,
+    "bmi": 28.3,
+    "egfr": 62,
+    "uacr_mg_g": 373,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 3,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0022",
+    "age_years": 65,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "obesity"
+    ],
+    "hba1c_percent": 8.3,
+    "bmi": 33.2,
+    "egfr": 63,
+    "uacr_mg_g": 9,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "metformin"
+    ],
+    "metformin_stable_months": 18,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0023",
+    "age_years": 42,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension"
+    ],
+    "hba1c_percent": 7.7,
+    "bmi": 22.4,
+    "egfr": 69,
+    "uacr_mg_g": 18,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0024",
+    "age_years": 54,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia"
+    ],
+    "hba1c_percent": 7.8,
+    "bmi": 41.2,
+    "egfr": null,
+    "uacr_mg_g": 1076,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": null,
+    "metformin_stable_months": 7,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0025",
+    "age_years": 57,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 9.1,
+    "bmi": null,
+    "egfr": 96,
+    "uacr_mg_g": 705,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "glp-1 receptor agonist",
+      "metformin"
+    ],
+    "metformin_stable_months": 31,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0026",
+    "age_years": 56,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 9.0,
+    "bmi": 30.1,
+    "egfr": 102,
+    "uacr_mg_g": 11,
+    "smoking_status": null,
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0027",
+    "age_years": 63,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 10.8,
+    "bmi": 40.7,
+    "egfr": 95,
+    "uacr_mg_g": 906,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 10,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0028",
+    "age_years": 52,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia"
+    ],
+    "hba1c_percent": 9.6,
+    "bmi": 31.9,
+    "egfr": 44,
+    "uacr_mg_g": 1280,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "glp-1 receptor agonist",
+      "insulin",
+      "metformin",
+      "statin"
+    ],
+    "metformin_stable_months": 20,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0029",
+    "age_years": 35,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 11.2,
+    "bmi": 31.3,
+    "egfr": 75,
+    "uacr_mg_g": 8,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "dpp-4 inhibitor",
+      "metformin"
+    ],
+    "metformin_stable_months": 29,
+    "recent_mi_or_stroke_months": 20,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0030",
+    "age_years": 58,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "obesity",
+      "ckd"
+    ],
+    "hba1c_percent": null,
+    "bmi": 31.8,
+    "egfr": 113,
+    "uacr_mg_g": 464,
+    "smoking_status": "never",
+    "pregnant": null,
+    "medications": [
+      "arb",
+      "dpp-4 inhibitor",
+      "glp-1 receptor agonist",
+      "metformin"
+    ],
+    "metformin_stable_months": 22,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0031",
+    "age_years": 51,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "obesity"
+    ],
+    "hba1c_percent": 11.2,
+    "bmi": 24.3,
+    "egfr": 91,
+    "uacr_mg_g": 736,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "ace inhibitor",
+      "metformin"
+    ],
+    "metformin_stable_months": 10,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0032",
+    "age_years": 41,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "obesity",
+      "asthma"
+    ],
+    "hba1c_percent": 10.1,
+    "bmi": 33.0,
+    "egfr": 88,
+    "uacr_mg_g": 30,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": 16,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0033",
+    "age_years": 34,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "asthma"
+    ],
+    "hba1c_percent": 7.0,
+    "bmi": null,
+    "egfr": 55,
+    "uacr_mg_g": 59,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "dpp-4 inhibitor"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": true,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0034",
+    "age_years": 55,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "asthma"
+    ],
+    "hba1c_percent": 10.5,
+    "bmi": 28.1,
+    "egfr": null,
+    "uacr_mg_g": 6,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 4,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": true
+  },
+  {
+    "patient_id": "P0035",
+    "age_years": 65,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 8.1,
+    "bmi": 40.6,
+    "egfr": 71,
+    "uacr_mg_g": 70,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": 27,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0036",
+    "age_years": 61,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension"
+    ],
+    "hba1c_percent": null,
+    "bmi": 27.8,
+    "egfr": null,
+    "uacr_mg_g": 160,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "metformin"
+    ],
+    "metformin_stable_months": null,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0037",
+    "age_years": 48,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes"
+    ],
+    "hba1c_percent": 8.2,
+    "bmi": 42.6,
+    "egfr": 84,
+    "uacr_mg_g": 31,
+    "smoking_status": "former",
+    "pregnant": false,
+    "medications": [
+      "insulin",
+      "metformin"
+    ],
+    "metformin_stable_months": 17,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0038",
+    "age_years": 37,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "hypertension",
+      "obesity"
+    ],
+    "hba1c_percent": 8.8,
+    "bmi": 27.7,
+    "egfr": 65,
+    "uacr_mg_g": 1315,
+    "smoking_status": "current",
+    "pregnant": false,
+    "medications": [
+      "arb",
+      "metformin"
+    ],
+    "metformin_stable_months": 14,
+    "recent_mi_or_stroke_months": 18,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0039",
+    "age_years": 57,
+    "sex": "male",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia"
+    ],
+    "hba1c_percent": 7.2,
+    "bmi": 28.7,
+    "egfr": 86,
+    "uacr_mg_g": 182,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": null,
+    "metformin_stable_months": 26,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  },
+  {
+    "patient_id": "P0040",
+    "age_years": 73,
+    "sex": "female",
+    "diagnoses": [
+      "type 2 diabetes",
+      "dyslipidemia"
+    ],
+    "hba1c_percent": 7.7,
+    "bmi": 41.2,
+    "egfr": 59,
+    "uacr_mg_g": 918,
+    "smoking_status": "never",
+    "pregnant": false,
+    "medications": null,
+    "metformin_stable_months": 11,
+    "recent_mi_or_stroke_months": null,
+    "type1_diabetes": false,
+    "severe_renal_impairment": false,
+    "dialysis": false,
+    "kidney_transplant": false,
+    "eating_disorder": false
+  }
+]

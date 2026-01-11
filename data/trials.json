@@ -1,0 +1,112 @@
+[
+  {
+    "trial_id": "T2D_METFORMIN_ORAL_001",
+    "title": "Oral add-on therapy for T2D on stable Metformin",
+    "phase": "Phase 3",
+    "inclusion": {
+      "age_years": {
+        "min": 18,
+        "max": 75
+      },
+      "diagnoses_any": [
+        "type 2 diabetes",
+        "t2d",
+        "type ii diabetes"
+      ],
+      "hba1c_percent": {
+        "min": 7.0,
+        "max": 10.0
+      },
+      "bmi": {
+        "min": 25,
+        "max": 40
+      },
+      "egfr": {
+        "min": 60
+      },
+      "medications_all": [
+        "metformin"
+      ],
+      "metformin_stable_months": {
+        "min": 3
+      }
+    },
+    "exclusion": {
+      "pregnant": true,
+      "medications_any": [
+        "insulin"
+      ],
+      "recent_mi_or_stroke_months": {
+        "max": 6
+      },
+      "type1_diabetes": true
+    }
+  },
+  {
+    "trial_id": "T2D_WEIGHT_LOSS_002",
+    "title": "Weight-loss adjunct for T2D with obesity",
+    "phase": "Phase 2",
+    "inclusion": {
+      "age_years": {
+        "min": 18,
+        "max": 70
+      },
+      "diagnoses_any": [
+        "type 2 diabetes",
+        "t2d",
+        "type ii diabetes"
+      ],
+      "hba1c_percent": {
+        "min": 7.5,
+        "max": 11.0
+      },
+      "bmi": {
+        "min": 30,
+        "max": 50
+      },
+      "medications_any": [
+        "metformin",
+        "dpp-4 inhibitor",
+        "sglt2 inhibitor",
+        "glp-1 receptor agonist"
+      ]
+    },
+    "exclusion": {
+      "pregnant": true,
+      "severe_renal_impairment": true,
+      "eating_disorder": true
+    }
+  },
+  {
+    "trial_id": "T2D_CKD_003",
+    "title": "Renal-protection study in T2D with early CKD",
+    "phase": "Phase 3",
+    "inclusion": {
+      "age_years": {
+        "min": 30,
+        "max": 80
+      },
+      "diagnoses_any": [
+        "type 2 diabetes",
+        "t2d",
+        "type ii diabetes"
+      ],
+      "hba1c_percent": {
+        "min": 6.5,
+        "max": 10.5
+      },
+      "egfr": {
+        "min": 30,
+        "max": 60
+      },
+      "uacr_mg_g": {
+        "min": 30
+      }
+    },
+    "exclusion": {
+      "pregnant": true,
+      "dialysis": true,
+      "kidney_transplant": true
+    }
+  }
+]
